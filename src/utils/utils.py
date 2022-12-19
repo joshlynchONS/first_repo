@@ -6,7 +6,7 @@ def calc_accuracy(predicted_test, labels_test):
 
     Args:
         predicted_test (numpy array): predicted values
-        labels_test (umpy array): actual values
+        labels_test (umpy array): actual valuesssss
 
     Returns:
         float: the accuracy between two arrays displayed as a percentage
