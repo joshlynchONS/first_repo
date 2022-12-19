@@ -2,11 +2,11 @@ import numpy as np
 
 
 def calc_accuracy(predicted_test, labels_test):
-    """_summary_
+    """summary of functions
 
     Args:
         predicted_test (numpy array): predicted values
-        labels_test (umpy array): actual values
+        labels_test (umpy array): actual valuesssss
 
     Returns:
         float: the accuracy between two arrays displayed as a percentage
