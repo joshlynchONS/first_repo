@@ -8,7 +8,7 @@ def build_model(input_shape):
         input_shape (tuple): the shape of the data used in this model
 
     Returns:
-        keras model: compiled MLP keras model
+        keras model: compiled MLP keras modelllll
     """
 
     model = Sequential()
