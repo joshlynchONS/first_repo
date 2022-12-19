@@ -2,7 +2,7 @@ import numpy as np
 
 
 def calc_accuracy(predicted_test, labels_test):
-    """_summary_
+    """summary of functions
 
     Args:
         predicted_test (numpy array): predicted values
